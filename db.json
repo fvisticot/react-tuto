@@ -1,0 +1,8 @@
+{
+
+  "moods": [
+    {"id": 1, "firstName": "fred", "mood": "happy"},
+    {"id": 2, "firstName": "tom", "mood": "sad"},
+    {"id": 3, "firstName": "lily", "mood": "superhappy"}
+  ]
+}
